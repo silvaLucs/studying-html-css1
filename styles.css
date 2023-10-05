@@ -64,7 +64,7 @@ footer a {
 footer #balls {
 
     display: flex;
-    position: absolute;
+    position: fixed;
     right: 0;
     bottom: 0;
 }
