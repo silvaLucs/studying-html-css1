@@ -3,7 +3,7 @@
 }
 
 body #hero {
- margin-bottom: 72px;
+ margin-bottom: 170px;
 }
 
 
@@ -57,7 +57,8 @@ footer a {
     text-decoration: none;
     color: #F90;
     font-family: 'Open Sans';   
-    
+    font-size: 14px;
+
 }
 
 footer #balls {
